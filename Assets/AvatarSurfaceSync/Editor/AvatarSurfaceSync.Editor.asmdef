@@ -1,0 +1,6 @@
+{
+  "name": "AvatarSurfaceSync.Editor",
+  "rootNamespace": "AvatarSurfaceSync",
+  "references": ["AvatarSurfaceSync.Runtime"],
+  "includePlatforms": ["Editor"]
+}
